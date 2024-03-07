@@ -1,0 +1,9 @@
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaEntidades.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

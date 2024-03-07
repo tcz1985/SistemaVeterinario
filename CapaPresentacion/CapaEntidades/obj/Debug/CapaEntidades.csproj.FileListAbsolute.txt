@@ -1,0 +1,6 @@
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\TEMP.LAPTOP-Q13BKPCH\Desktop\Sistema\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
